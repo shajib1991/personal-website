@@ -1,0 +1,53 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin:0%;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 35px;
+    padding-top: 60px;
+}
+section{
+    height: 500px;
+}
+.name{
+    color: tomato;
+    font-size: 60px;
+}
+.intro{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+}
+.my-image{
+    height: 90%;
+    width: 80%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 4%;
+    padding-bottom: 2%;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+
+}
+#my-image{
+    height: 70%;
+    width:60%;
+    padding-top: 40px;
+}
+p{
+   text-align: justify;
+}
